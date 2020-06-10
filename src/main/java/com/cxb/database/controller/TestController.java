@@ -1,12 +1,3 @@
-/**
- * 
- */
-/**
- * @ClassName package-info
- * @Description TODO
- * @author lide
- * @date 2018年2月9日 下午2:08:30
- */
 package com.cxb.database.controller;
 
 import com.cxb.database.service.TestService;
